@@ -1,0 +1,22 @@
+[{"stream_name":"stdout","time":8.933613757,"data":"/kaggle/input/netflix-movies-and-tv-shows/netflix_titles.csv\n"}
+,{"stream_name":"stdout","time":12.304542839,"data":"Accuracy: 0.996594778660613\n"}
+,{"stream_name":"stdout","time":12.304583224,"data":"\n"}
+,{"stream_name":"stdout","time":12.30458919,"data":"Classification Report:\n"}
+,{"stream_name":"stdout","time":12.30459332,"data":"               precision    recall  f1-score   support\n"}
+,{"stream_name":"stdout","time":12.304597987,"data":"\n"}
+,{"stream_name":"stdout","time":12.304602932,"data":"       Movie       1.00      1.00      1.00      1214\n"}
+,{"stream_name":"stdout","time":12.304608008,"data":"     TV Show       1.00      0.99      0.99       548\n"}
+,{"stream_name":"stdout","time":12.304612951,"data":"\n"}
+,{"stream_name":"stdout","time":12.304617572,"data":"    accuracy                           1.00      1762\n"}
+,{"stream_name":"stdout","time":12.304622032,"data":"   macro avg       1.00      1.00      1.00      1762\n"}
+,{"stream_name":"stdout","time":12.304626415,"data":"weighted avg       1.00      1.00      1.00      1762\n"}
+,{"stream_name":"stdout","time":12.304631147,"data":"\n"}
+,{"stream_name":"stderr","time":15.173922309,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":15.173988326,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":15.207768956,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":15.613707428,"data":"[NbConvertApp] Writing 13106 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":17.262488328,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":17.262549922,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":17.295036795,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":18.275630092,"data":"[NbConvertApp] Writing 284911 bytes to __results__.html\n"}
+]
