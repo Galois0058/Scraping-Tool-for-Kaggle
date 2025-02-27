@@ -12,8 +12,8 @@ dataref_list=[d.ref for d in datasets]
 datatitle_list = [d.title for d in datasets]
 print("数据集列表:", datatitle_list)
 # 或手动输入ref列表和title列表
-# dataset_ref=["meharshanali/nvidia_stocks_data_2025"]
-# datapath=["./nvidia_stocks_data_2025"]
+# dataref_list=["mpwolke/cusersmarildownloadstuvalu-csv"]
+# datatitle_list=["cusersmarildownloadstuvalu-csv"]
 
 def main():
     for datatitle, data_ref in zip(datatitle_list, dataref_list):
